@@ -1,3 +1,5 @@
+# Status Update Week 2
+
 ## Last Week's Accomplishments
 
 > Working on a different Django tutorial

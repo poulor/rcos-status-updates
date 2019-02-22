@@ -1,3 +1,5 @@
+# Status Update Week 1
+
 ## Last Week's Accomplishments
 
 > Successfully merged model into master with Grace's help

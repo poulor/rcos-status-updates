@@ -1,3 +1,5 @@
+# Status Update Week 3
+
 ## Last Week's Accomplishments
 
 > Finished most of the NetNinja tutorial on Django
