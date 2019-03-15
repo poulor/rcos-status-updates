@@ -1,5 +1,6 @@
 ## Last Week's Accomplishments
 > Stalled a bit
+
 > Read up on models and methods in Django 
 
 ## This Week's Plan

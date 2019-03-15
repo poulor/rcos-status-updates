@@ -5,6 +5,7 @@
 ## This Week's Plan
 
 > Implement "hiding functions"
+
 > Specifically hiding a petition - shouldn't be too hard
 
 ## Anything Blocking?
@@ -14,4 +15,5 @@
 ## Notes
 
 > Is there a need to delete tags? Or simply hide them like petitions?
+
 > Looks like we will cross this bridge when we get there.
