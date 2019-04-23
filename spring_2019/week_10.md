@@ -2,7 +2,7 @@
 
 ## Last Week's Accomplishments
 
-> Mostly worked and presentation (slides and demo)
+> Mostly worked on presentation (slides and demo)
 
 ## This Week's Plan
 
@@ -12,6 +12,6 @@
 
 
 ## Anything Blocking?
-
+> Things I change in style.css does not affect create.html (when it should). Andrew and I tried to figure it out but our efforts were futile, not exactly sure how to proceed going to try again later
 
 ## Notes
